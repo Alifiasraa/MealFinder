@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+  font-family: sans-serif;
+}
+
+footer {
+  padding: 16px;
+  color: white;
+  background-color: #f3bb15;
+  text-align: center;
+  font-weight: bold;
+}
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: 32px auto;
+}
+
+meal-list {
+  display: block;
+  margin-top: 32px;
+  width: 100%;
+  padding: 16px;
+}
